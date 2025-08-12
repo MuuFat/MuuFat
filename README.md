@@ -8,7 +8,7 @@
 
 🎓 **Computer Science Student** | 💡 **Developer & AI Enthusiast**
 
-Hello! I'm Muhammed, a passionate developer currently pursuing a degree in Computer Science. I enjoy building innovative projects, exploring artificial intelligence and solving real-world problems with code.
+Hello! I'm Muhammed, a passionate developer currently pursuing a degree in Computer Science. I enjoy building innovative projects, exploring artificial intelligence and solving real world problems with code.
 
 🌐 **Check out my personal portfolio:** [muufat.github.io](https://muufat.github.io/)
 
