@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=26&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Data+Scientist+%7C+Automation+Architect;Building+Scalable+Intelligent+Systems;Python+%7C+ML+%7C+Backend+%7C+NLP+%7C+Data+Engineering" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=26&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Data+Scientist+%7C+Automation+Architect;Building+Scalable+Intelligent+Systems;Python+%7C+ML+%7C+Backend+%7C+NLP+%7C+Data+Engineering" />
 </p>
 
 <p align="center">
@@ -25,8 +25,6 @@ focus:
   - Machine Learning Pipelines
   - Backend Architecture
   - Automation Engineering
-
-current_mode: "building production-level intelligent systems"
 ```
 
 🧠 ENGINEERING PHILOSOPHY
@@ -34,55 +32,47 @@ current_mode: "building production-level intelligent systems"
 
 🚀 FEATURED SYSTEMS
 <p align="center">
-<a href="https://github.com/MuuFat/Deep-Sentiment-Classifier">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DMuuFat%26repo%3DDeep-Sentiment-Classifier%26theme%3Dtokyonight%26border_radius%3D10" />
-</a>
-<a href="https://github.com/MuuFat/emotion-project">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DMuuFat%26repo%3Demotion-project%26theme%3Dtokyonight%26border_radius%3D10" />
-</a>
+<a href="https://www.google.com/search?q=https://github.com/MuuFat/Deep-Sentiment-Classifier"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DMuuFat%26repo%3DDeep-Sentiment-Classifier%26theme%3Dtokyonight" /></a>
+<a href="https://www.google.com/search?q=https://github.com/MuuFat/emotion-project"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DMuuFat%26repo%3Demotion-project%26theme%3Dtokyonight" /></a>
 </p>
 <p align="center">
-<a href="https://github.com/MuuFat/linkontent-bot">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DMuuFat%26repo%3Dlinkontent-bot%26theme%3Dtokyonight%26border_radius%3D10" />
-</a>
-<a href="https://github.com/MuuFat/Automation-and-ML-Scripts">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DMuuFat%26repo%3DAutomation-and-ML-Scripts%26theme%3Dtokyonight%26border_radius%3D10" />
-</a>
+<a href="https://www.google.com/search?q=https://github.com/MuuFat/linkontent-bot"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DMuuFat%26repo%3Dlinkontent-bot%26theme%3Dtokyonight" /></a>
+<a href="https://www.google.com/search?q=https://github.com/MuuFat/Automation-and-ML-Scripts"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DMuuFat%26repo%3DAutomation-and-ML-Scripts%26theme%3Dtokyonight" /></a>
 </p>
 
 ⚡ TECH STACK MATRIX
 <p align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,kotlin,java,js,cpp,sql,django,fastapi,postgres,docker,aws,firebase,git,github,jupyter,vscode%26theme%3Ddark" />
+<img src="https://skillicons.dev/icons?i=python,kotlin,java,js,cpp,sql,django,firebase,git,github,jupyter,androidstudio,vscode" />
 </p>
 
 📊 ENGINEERING METRICS
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMuuFat%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuuFat&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MuuFat&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuuFat&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 🔥 CONTRIBUTION INTELLIGENCE
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=MuuFat&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=MuuFat&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DMuuFat%26theme%3Dreact-dark%26hide_border%3Dtrue%26area%3Dtrue"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuuFat&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
-🌌 SYSTEM MAP
+🌌 SYSTEM MAP & TELEMETRY
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuuFat&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuuFat&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuuFat&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuuFat&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuuFat&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuuFat&theme=tokyonight" width="49%" />
 </p>
 
 🐍 CONTRIBUTION SNAKE ENGINE
 <p align="center">
-<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/MuuFat/MuuFat/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/MuuFat/MuuFat/output/github-contribution-grid-snake.svg" />
 </p>
 
 🎧 SPOTIFY INTEGRATION
@@ -92,8 +82,9 @@ current_mode: "building production-level intelligent systems"
 
 📡 NETWORK CONNECTIVITY
 <p align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/muhammed-kalkan" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-kalkan" height="30" width="40" /></a>
-<a href="https://your-portfolio-link.com" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="portfolio" height="30" width="40" /></a>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/muhammed-kalkan"><b>LinkedIn</b></a> •
+<a href="https://www.google.com/search?q=https://github.com/MuuFat"><b>GitHub</b></a> •
+<a href="mailto:your-email@example.com"><b>Email</b></a>
 </p>
 
 <p align="center">
