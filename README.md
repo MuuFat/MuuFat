@@ -36,16 +36,16 @@ I'm a Computer Science student and AI/Backend engineer based in Warsaw. I build 
 
 <p align="center">
   <a href="https://github.com/MuuFat/Deep-Sentiment-Classifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuuFat&repo=Deep-Sentiment-Classifier&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MuuFat&repo=Deep-Sentiment-Classifier&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/MuuFat/emotion-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuuFat&repo=emotion-project&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MuuFat&repo=emotion-project&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/MuuFat/linkontent-bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuuFat&repo=linkontent-bot&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MuuFat&repo=linkontent-bot&theme=tokyonight&hide_border=true"/>
   </a>
   <a href="https://github.com/MuuFat/Automation-and-ML-Scripts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MuuFat&repo=Automation-and-ML-Scripts&theme=tokyonight&hide_border=true"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MuuFat&repo=Automation-and-ML-Scripts&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
