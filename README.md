@@ -46,7 +46,7 @@ I'm a Computer Science student and AI/Backend engineer based in Warsaw. I build 
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,java,js,cpp,django,firebase,git,github,jupyter,androidstudio,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,js,cpp,django,firebase,git,github,androidstudio,vscode&theme=dark"/>
 </p>
 
 ---
