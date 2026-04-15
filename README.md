@@ -1,4 +1,5 @@
 # Hi there, I'm Muhammed Kalkan 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress;Python+Developer;Data+Science+Enthusiast;Automation+Builder)
 ### 🧠 AI • Data Science • Automation Engineer
 
 [![LinkedIn Badge](https://img.shields.io/badge/Muhammed%20Kalkan-LinkedIn-blue?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammed-kalkan-a0646a27b/)
