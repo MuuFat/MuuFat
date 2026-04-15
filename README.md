@@ -101,4 +101,3 @@ current_state: "Building production-level intelligent systems"
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0f0c29&height=120&section=footer"/>
 </p>
-```
