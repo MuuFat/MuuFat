@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/Muhammed%20Kalkan-LinkedIn-blue?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammed-kalkan-a0646a27b/)
 [![GitHub Followers](https://img.shields.io/github/followers/MuuFat?label=Follow\&style=social)](https://github.com/MuuFat)
 [![Portfolio](https://img.shields.io/badge/Portfolio-muufat.github.io-orange?style=flat-square\&logo=firefox\&logoColor=white)](https://muufat.github.io/)
-![Profile Views](https://komarev.com/ghpvc/?username=MuuFat&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=MuuFat\&label=Profile%20views\&color=0e75b6\&style=flat)
 
 ---
 
@@ -88,16 +88,22 @@ Collection of machine learning experiments and automation tools.
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuuFat&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuuFat\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuuFat&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuuFat\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+# 🐍 Contribution Snake
 
 ![snake gif](https://github.com/MuuFat/MuuFat/blob/output/github-contribution-grid-snake.svg)
 
 ---
-## 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuuFat&theme=tokyo-night)
+# 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuuFat\&theme=tokyo-night)
+
 ---
 
 # 📫 Connect With Me
