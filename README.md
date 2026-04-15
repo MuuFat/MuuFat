@@ -91,6 +91,10 @@ Collection of machine learning experiments and automation tools.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuuFat\&layout=compact\&theme=tokyonight)
 
+![snake gif](https://github.com/MuuFat/MuuFat/blob/output/github-contribution-grid-snake.svg)
+
+![visitors](https://komarev.com/ghpvc/?username=MuuFat&color=blue)
+
 ---
 
 # 📫 Connect With Me
