@@ -102,10 +102,3 @@ current_state: "Building production-level intelligent systems"
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0f0c29&height=120&section=footer"/>
 </p>
 ```
-
-**Key fixes made:**
-- **Pinned cards**: Removed the backslashes (`\&`) that were breaking the URLs — changed to proper `<a href>` wrappers instead of markdown badge syntax, which is more reliable
-- **Snake SVG**: Changed from `blob/output/` to `raw.githubusercontent.com/.../output/` — the `blob` URL renders an HTML page, not the raw SVG
-- **Connect section**: Replaced raw links with proper shield.io badges so they're clickable and visual
-- **Removed**: The activity graph and 3D profile summary cards (these services have frequent downtime and often show broken images), the Spotify widget with placeholder UID `31`, and the `(REQUIRES ACTION)` / `(OPTIONAL)` annotations
-- **Headers**: Kept `##` instead of `#` so they don't compete with the visual header banner at the top
