@@ -34,20 +34,12 @@ I'm a Computer Science student and AI/Backend engineer based in Warsaw. I build 
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/MuuFat/Deep-Sentiment-Classifier">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MuuFat&repo=Deep-Sentiment-Classifier&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/MuuFat/emotion-project">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MuuFat&repo=emotion-project&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/MuuFat/linkontent-bot">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MuuFat&repo=linkontent-bot&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/MuuFat/Automation-and-ML-Scripts">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MuuFat&repo=Automation-and-ML-Scripts&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [🧠 Deep Sentiment Classifier](https://github.com/MuuFat/Deep-Sentiment-Classifier) | Multi-model sentiment analysis on IMDb, Yelp & Twitter using Naive Bayes, SVM, LSTM and BERT | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [😶 Emotion AI Engine](https://github.com/MuuFat/emotion-project) | Emotion recognition using ML and data analysis | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| [🤖 Linkontent Bot](https://github.com/MuuFat/linkontent-bot) | Automation bot for content and LinkedIn workflows | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [⚙️ ML & Automation Scripts](https://github.com/MuuFat/Automation-and-ML-Scripts) | ML models, automation scripts and AI applications | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
 ---
 
