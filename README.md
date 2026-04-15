@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammed Kalkan 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Muhammed%20Kalkan-blue?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammed-kalkan-a0646a27b/)
+[![LinkedIn Badge](https://img.shields.io/badge/Muhammed%20Kalkan-LinkedIn-blue?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammed-kalkan-a0646a27b/)
 [![GitHub Followers](https://img.shields.io/github/followers/MuuFat?label=Follow\&style=social)](https://github.com/MuuFat)
 [![Portfolio](https://img.shields.io/badge/Portfolio-muufat.github.io-orange?style=flat-square\&logo=firefox\&logoColor=white)](https://muufat.github.io/)
 
@@ -12,7 +12,7 @@
 I’m a developer passionate about **AI, automation and data-driven applications**.
 Currently transitioning from academic theory into **practical engineering and real-world datasets**.
 
-📍 Warsaw, Poland
+📍 Warsaw, Poland 🇵🇱
 
 ---
 
@@ -20,16 +20,15 @@ Currently transitioning from academic theory into **practical engineering and re
 
 ### 🤖 Deep Sentiment Classifier
 
-Multi-model sentiment analysis system trained on **IMDb, Yelp and Twitter datasets**.
+Multi-model sentiment analysis trained on **IMDb, Yelp and Twitter datasets**.
 
-**Technologies:** Python, Scikit-Learn, LSTM, BERT, NLP
+Technologies:
 
-Models implemented:
-
-* Naive Bayes
-* Support Vector Machine
-* LSTM Neural Network
-* BERT Transformer
+* Python
+* Scikit-Learn
+* LSTM
+* BERT
+* NLP
 
 🔗 https://github.com/MuuFat/Deep-Sentiment-Classifier
 
@@ -37,9 +36,9 @@ Models implemented:
 
 ### 😊 Emotion Recognition ML Project
 
-Machine learning model for detecting emotions from datasets.
+Machine learning model detecting emotions from datasets.
 
-**Tech stack**
+Tech stack:
 
 * Python
 * Pandas
@@ -52,13 +51,7 @@ Machine learning model for detecting emotions from datasets.
 
 ### 🤖 Linkontent Bot
 
-Automation bot built in Python.
-
-Features include:
-
-* automated workflows
-* data extraction
-* script based automation
+Python automation bot for workflow automation and data extraction.
 
 🔗 https://github.com/MuuFat/linkontent-bot
 
@@ -66,13 +59,7 @@ Features include:
 
 ### 📊 Automation & ML Scripts
 
-Collection of machine learning experiments and automation utilities.
-
-Includes:
-
-* data analysis scripts
-* ML experiments
-* automation tools
+Collection of machine learning experiments and automation tools.
 
 🔗 https://github.com/MuuFat/Automation-and-ML-Scripts
 
@@ -82,15 +69,19 @@ Includes:
 
 ### Languages
 
-Python • Kotlin • JavaScript • Java • SQL • C/C++
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### Frameworks & Tools
+### Tools & Frameworks
 
-Django • Firebase • Git • Jupyter • Android SDK
-
-### Interests
-
-AI • NLP • Data Science • Backend Systems • Automation
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
 
 ---
 
