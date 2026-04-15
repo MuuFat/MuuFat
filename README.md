@@ -1,21 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Muhammed%20Kalkan&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,100:00f7ff&height=220&section=header&text=MUHAMMED%20KALKAN&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=650&lines=AI+Engineer+in+Progress;Python+Developer;Data+Science+Enthusiast;Automation+Builder;Backend+Developer" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammed-kalkan-a0646a27b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammed%20Kalkan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/MuuFat">
-    <img src="https://img.shields.io/badge/GitHub-MuuFat-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://muufat.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-ff5722?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=26&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Data+Scientist+%7C+Automation+Builder;Building+Real-World+Intelligent+Systems;Python+%7C+ML+%7C+Backend+%7C+NLP" />
 </p>
 
 <p align="center">
@@ -24,46 +12,54 @@
 
 ---
 
-# 🧠 ABOUT ME
+# ⚡ SYSTEM PROFILE
 
-🎓 Computer Science Student (Graduating 2026)
-💻 Focus: AI • Data Science • Backend Systems • Automation
-📍 Warsaw, Poland 🇵🇱
-
-I enjoy building **real-world AI systems, automation tools, and data-driven applications**.
-Currently shifting from theory → production-grade engineering.
-
----
-
-# 🚀 FEATURED PROJECTS
-
-[![Deep Sentiment Classifier](https://github-readme-stats.vercel.app/api/pin/?username=MuuFat\&repo=Deep-Sentiment-Classifier\&theme=tokyonight)](https://github.com/MuuFat/Deep-Sentiment-Classifier)
-
-[![Emotion Project](https://github-readme-stats.vercel.app/api/pin/?username=MuuFat\&repo=emotion-project\&theme=tokyonight)](https://github.com/MuuFat/emotion-project)
-
-[![Linkontent Bot](https://github-readme-stats.vercel.app/api/pin/?username=MuuFat\&repo=linkontent-bot\&theme=tokyonight)](https://github.com/MuuFat/linkontent-bot)
-
-[![Automation Scripts](https://github-readme-stats.vercel.app/api/pin/?username=MuuFat\&repo=Automation-and-ML-Scripts\&theme=tokyonight)](https://github.com/MuuFat/Automation-and-ML-Scripts)
+```yaml
+name: Muhammed Kalkan
+role: AI / Data / Backend Engineer
+location: Warsaw, Poland
+focus: ["AI Systems", "Automation", "NLP", "Backend Architecture"]
+currently_building: "Real-world ML + automation pipelines"
+```
 
 ---
 
-# ⚡ TECH STACK (ANIMATED)
+# 🧠 CORE IDENTITY
 
-### 🚀 Languages
+> “I don’t build projects. I build systems that learn, automate, and scale.”
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,kotlin,java,js,sql,c" />
+* 🎓 Computer Science Student (2026)
+* 🤖 AI / ML + Automation Developer
+* 📊 Data-driven problem solver
+* ⚙️ Backend + API systems builder
+
+---
+
+# 🚀 FEATURED SYSTEMS (PROJECTS)
+
+<p align="center">
+
+[![Deep Sentiment AI](https://github-readme-stats.vercel.app/api/pin/?username=MuuFat\&repo=Deep-Sentiment-Classifier\&theme=tokyonight)](https://github.com/MuuFat/Deep-Sentiment-Classifier)
+
+[![Emotion AI](https://github-readme-stats.vercel.app/api/pin/?username=MuuFat\&repo=emotion-project\&theme=tokyonight)](https://github.com/MuuFat/emotion-project)
+
+[![Automation Engine](https://github-readme-stats.vercel.app/api/pin/?username=MuuFat\&repo=linkontent-bot\&theme=tokyonight)](https://github.com/MuuFat/linkontent-bot)
+
+[![ML Toolkit](https://github-readme-stats.vercel.app/api/pin/?username=MuuFat\&repo=Automation-and-ML-Scripts\&theme=tokyonight)](https://github.com/MuuFat/Automation-and-ML-Scripts)
+
 </p>
 
-### 🧠 AI / Data / Tools
+---
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=django,firebase,git,github,jupyter,androidstudio,vscode" />
+# ⚡ TECH STACK MATRIX
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,kotlin,java,js,cpp,sql,django,firebase,git,github,jupyter,androidstudio,vscode" />
 </p>
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# 📊 ENGINEERING METRICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MuuFat&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -75,31 +71,19 @@ Currently shifting from theory → production-grade engineering.
 
 ---
 
-# 🔥 STREAK STATS
+# 🔥 CONTRIBUTION INTELLIGENCE
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuuFat&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=MuuFat&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuuFat&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-  <img src="https://github.com/MuuFat/MuuFat/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 📈 ACTIVITY GRAPH
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuuFat&theme=tokyo-night"/>
-</p>
-
----
-
-# 🌌 3D CONTRIBUTION GRAPH
+# 🌌 GITHUB INTELLIGENCE MAP
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuuFat&theme=tokyonight"/>
@@ -107,7 +91,7 @@ Currently shifting from theory → production-grade engineering.
 
 ---
 
-# 📊 GITHUB STREAK + HEATMAP STYLE
+# 🧬 SYSTEM ACTIVITY
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuuFat&theme=tokyonight"/>
@@ -116,19 +100,46 @@ Currently shifting from theory → production-grade engineering.
 
 ---
 
-# 📫 CONNECT WITH ME
+# 🐍 CONTRIBUTION SNAKE (LIVE)
 
-💼 LinkedIn:
-https://www.linkedin.com/in/muhammed-kalkan-a0646a27b/
-
-🌐 Portfolio:
-https://muufat.github.io/
-
-💻 GitHub:
-https://github.com/MuuFat
+<p align="center">
+  <img src="https://github.com/MuuFat/MuuFat/blob/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
-# ⚡ QUOTE
+# 🎧 NOW PLAYING (SPOTIFY STYLE)
 
-> "Learning never exhausts the mind." — Leonardo da Vinci
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true" />
+</p>
+
+> ⚠️ (This works ONLY if you connect Spotify — optional)
+
+---
+
+# 🌠 NEON DIVIDER
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/000000/000000.gif"/>
+</p>
+
+---
+
+# 📡 CONNECT PROTOCOL
+
+* 💼 LinkedIn → professional network layer
+* 🌐 Portfolio → system showcase
+* 💻 GitHub → engineering hub
+
+---
+
+# ⚡ FINAL QUOTE
+
+> “Build systems, not projects. Automate everything. Think in scale.”
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0f0c29&height=120&section=footer"/>
+</p>
