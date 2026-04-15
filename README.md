@@ -37,9 +37,9 @@ I'm a Computer Science student and AI/Backend engineer based in Warsaw. I build 
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [🧠 Deep Sentiment Classifier](https://github.com/MuuFat/Deep-Sentiment-Classifier) | Multi-model sentiment analysis on IMDb, Yelp & Twitter using Naive Bayes, SVM, LSTM and BERT | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [😶 Emotion AI Engine](https://github.com/MuuFat/emotion-project) | Emotion recognition using ML and data analysis | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| [😶 Emotion AI Engine](https://github.com/MuuFat/emotion-project) | Emotion recognition using ML and data analysis | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 | [🤖 Linkontent Bot](https://github.com/MuuFat/linkontent-bot) | Automation bot for content and LinkedIn workflows | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [⚙️ ML & Automation Scripts](https://github.com/MuuFat/Automation-and-ML-Scripts) | ML models, automation scripts and AI applications | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| [⚙️ ML & Automation Scripts](https://github.com/MuuFat/Automation-and-ML-Scripts) | ML models, automation scripts and AI applications | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
 ---
 
