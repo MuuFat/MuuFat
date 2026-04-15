@@ -29,117 +29,73 @@ focus:
 current_mode: "building production-level intelligent systems"
 ```
 
----
+🧠 ENGINEERING PHILOSOPHY
+“I don’t build apps. I build systems that think, automate, and scale.”
 
-# 🧠 ENGINEERING PHILOSOPHY
-
-> “I don’t build apps. I build systems that think, automate, and scale.”
-
----
-
-# 🚀 FEATURED SYSTEMS
-
+🚀 FEATURED SYSTEMS
 <p align="center">
-
-[![Deep Sentiment AI](https://github-readme-stats.vercel.app/api/pin/?username=MuuFat\&repo=Deep-Sentiment-Classifier\&theme=tokyonight)](https://github.com/MuuFat/Deep-Sentiment-Classifier)
-
-[![Emotion AI Engine](https://github-readme-stats.vercel.app/api/pin/?username=MuuFat\&repo=emotion-project\&theme=tokyonight)](https://github.com/MuuFat/emotion-project)
-
-[![Automation Core](https://github-readme-stats.vercel.app/api/pin/?username=MuuFat\&repo=linkontent-bot\&theme=tokyonight)](https://github.com/MuuFat/linkontent-bot)
-
-[![ML Toolkit Suite](https://github-readme-stats.vercel.app/api/pin/?username=MuuFat\&repo=Automation-and-ML-Scripts\&theme=tokyonight)](https://github.com/MuuFat/Automation-and-ML-Scripts)
-
+<a href="https://github.com/MuuFat/Deep-Sentiment-Classifier">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DMuuFat%26repo%3DDeep-Sentiment-Classifier%26theme%3Dtokyonight%26border_radius%3D10" />
+</a>
+<a href="https://github.com/MuuFat/emotion-project">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DMuuFat%26repo%3Demotion-project%26theme%3Dtokyonight%26border_radius%3D10" />
+</a>
+</p>
+<p align="center">
+<a href="https://github.com/MuuFat/linkontent-bot">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DMuuFat%26repo%3Dlinkontent-bot%26theme%3Dtokyonight%26border_radius%3D10" />
+</a>
+<a href="https://github.com/MuuFat/Automation-and-ML-Scripts">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DMuuFat%26repo%3DAutomation-and-ML-Scripts%26theme%3Dtokyonight%26border_radius%3D10" />
+</a>
 </p>
 
----
-
-# ⚡ TECH STACK MATRIX (NEURAL GRID)
-
+⚡ TECH STACK MATRIX
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,kotlin,java,js,cpp,sql,django,firebase,git,github,jupyter,androidstudio,vscode" />
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,kotlin,java,js,cpp,sql,django,fastapi,postgres,docker,aws,firebase,git,github,jupyter,vscode%26theme%3Ddark" />
 </p>
 
----
-
-# 📊 ENGINEERING METRICS
-
+📊 ENGINEERING METRICS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuuFat&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMuuFat%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuuFat&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+🔥 CONTRIBUTION INTELLIGENCE
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuuFat&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 CONTRIBUTION INTELLIGENCE
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MuuFat&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=MuuFat&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuuFat&theme=react-dark&hide_border=true"/>
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DMuuFat%26theme%3Dreact-dark%26hide_border%3Dtrue%26area%3Dtrue"/>
 </p>
 
----
-
-# 🌌 SYSTEM MAP (3D PROFILE INTELLIGENCE)
-
+🌌 SYSTEM MAP
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuuFat&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuuFat&theme=tokyonight"/>
 </p>
 
----
-
-# 🧬 SYSTEM TELEMETRY
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuuFat&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuuFat&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuuFat&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuuFat&theme=tokyonight"/>
 </p>
 
----
-
-# 🐍 CONTRIBUTION SNAKE ENGINE
-
+🐍 CONTRIBUTION SNAKE ENGINE
 <p align="center">
-  <img src="https://github.com/MuuFat/MuuFat/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/MuuFat/MuuFat/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
----
-
-# 🎧 OPTIONAL SYSTEM INTEGRATION (SPOTIFY)
-
+🎧 SPOTIFY INTEGRATION
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117" />
 </p>
 
----
-
-# 🌠 NEON DIVIDER SYSTEM
-
+📡 NETWORK CONNECTIVITY
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/000000/000000.gif"/>
+<a href="https://www.google.com/search?q=https://linkedin.com/in/muhammed-kalkan" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-kalkan" height="30" width="40" /></a>
+<a href="https://your-portfolio-link.com" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="portfolio" height="30" width="40" /></a>
 </p>
 
----
-
-# 📡 NETWORK CONNECTIVITY
-
-* 💼 LinkedIn → professional system layer
-* 🌐 Portfolio → engineering showcase
-* 💻 GitHub → core development hub
-
----
-
-# ⚡ FINAL SYSTEM QUOTE
-
-> “Build systems, not features. Think in architecture. Scale everything.”
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0f0c29&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0f0c29&height=120&section=footer"/>
 </p>
