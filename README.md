@@ -1,4 +1,5 @@
 # Hi there, I'm Muhammed Kalkan 👋
+### 🧠 AI • Data Science • Automation Engineer
 
 [![LinkedIn Badge](https://img.shields.io/badge/Muhammed%20Kalkan-LinkedIn-blue?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammed-kalkan-a0646a27b/)
 [![GitHub Followers](https://img.shields.io/github/followers/MuuFat?label=Follow\&style=social)](https://github.com/MuuFat)
