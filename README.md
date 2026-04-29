@@ -67,7 +67,7 @@ I'm a Computer Science student and AI/Backend engineer based in Warsaw. I build 
 
 ---
 
-> *"Build systems, not features. Think in architecture. Scale everything."*
+> *"Build systems not features. Think in architecture. Scale everything."*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:0f0c29&height=120&section=footer"/>
