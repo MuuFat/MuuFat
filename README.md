@@ -54,11 +54,6 @@ I'm a Computer Science student and AI/Backend engineer based in Warsaw. I build 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MuuFat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MuuFat&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MuuFat&theme=tokyonight&hide_border=true"/>
 </p>
 
