@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammed-kalkan-a0646a27b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="[![LinkedIn](https://shields.io)](https://linkedin.com)"/>
   </a>&nbsp;
   <a href="https://muufat.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=githubpages&logoColor=black"/>
