@@ -8,15 +8,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammed-kalkan-a0646a27b/">
-    <img src="[![LinkedIn](https://shields.io)](https://linkedin.com)"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>&nbsp;
   <a href="https://muufat.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=githubpages&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Portfolio-Website-informational?style=flat&logo=googlechrome&logoColor=white"/>
   </a>&nbsp;
   <a href="https://github.com/MuuFat">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
   </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=MuuFat&label=Profile+Views&color=00f7ff&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=MuuFat&label=Profile+Views&color=00f7ff&style=flat"/>
 </p>
 
 ---
@@ -46,12 +46,17 @@ I'm a Computer Science student and AI/Backend engineer based in Warsaw. I build 
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,java,js,cpp,django,firebase,git,github,androidstudio,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,kotlin,java,js,html,css,cpp,django,firebase,mongodb,azure,vercel,git,github,androidstudio,vscode,anaconda,arduino,docker,figma,unity,idea,bash&theme=dark"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=MuuFat&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MuuFat&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MuuFat&theme=tokyonight&hide_border=true"/>
