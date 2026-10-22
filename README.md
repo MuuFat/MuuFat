@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:00f7ff&height=200&section=header&text=Muhammed%20Kalkan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Backend%20Developer&descAlignY=58&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:00f7ff&height=200&section=header&text=Muhammed%20Fatih%20Kalkan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Graduate%20%C2%B7%20Warsaw%2C%20Poland&descAlignY=58&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+that+scale;Python+%7C+ML+%7C+NLP+%7C+Backend+%7C+Automation;Warsaw%2C+Poland+%F0%9F%87%B5%F0%9F%87%B1"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=22&center=true&vCenter=true&width=650&lines=Turkish%E2%80%93English+bilingual+%7C+TOEIC+875;Python+%7C+SQL+%7C+Lua+%7C+Unity+%7C+Testing;Open+to+entry-level+technical+roles"/>
 </p>
 
 <p align="center">
@@ -23,30 +23,39 @@
 
 ## 🧠 About Me
 
-I'm a Computer Science student and AI/Backend engineer based in Warsaw. I build production-grade systems — not just scripts. My focus is on machine learning pipelines, NLP, and automation that solves real problems at scale.
+Computer Science graduate (Vizja University, 2026) based in Warsaw. Native Turkish speaker, English TOEIC 875 (B2).
+I enjoy games, testing and figuring out why things break. I'm looking for an entry-level technical role where I can keep learning.
 
-- 🔭 Currently building AI-powered automation and NLP systems
-- 🌱 Deep-diving into LLMs, data engineering, and distributed systems
-- 💬 Ask me about Python, ML pipelines, or backend architecture
-- ⚡ I think in systems, not features
+- 🎮 3,000+ hours on Steam across FPS, RPG, sports and strategy games, played with both Turkish and English interfaces
+- 🔎 I notice bugs and unnatural, machine-translated Turkish in mobile and Roblox games
+- 🎵 Sound producer in a team at Boğaziçi Game Jam (May 2024), Unity
+- 🌱 Learning: Python text processing, SQL, networking basics
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [🧠 Deep Sentiment Classifier](https://github.com/MuuFat/Deep-Sentiment-Classifier) | Multi-model sentiment analysis on IMDb, Yelp & Twitter using Naive Bayes, SVM, LSTM and BERT | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [😶 Emotion AI Engine](https://github.com/MuuFat/emotion-project) | Emotion recognition using ML and data analysis | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| [🤖 Linkontent Bot](https://github.com/MuuFat/linkontent-bot) | Automation bot for content and LinkedIn workflows | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| [⚙️ ML & Automation Scripts](https://github.com/MuuFat/Automation-and-ML-Scripts) | ML models, automation scripts and AI applications | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| [🗡️ Soul-Knott](https://github.com/MuuFat/Soul-Knott) | 2D knight platformer from Boğaziçi Game Jam. I made all the music and sound effects and helped integrate them. [Trailer](https://youtu.be/b2JsIpSOcAE) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
+| [🧠 Deep Sentiment Classifier](https://github.com/MuuFat/Deep-Sentiment-Classifier) | Sentiment analysis on IMDb, Yelp and Twitter (Naive Bayes, SVM, LSTM, BERT). Built with AI assistance. I found a bug where stop-word removal deleted negation ("n't") and wrote a fix. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [😶 Emotion Project](https://github.com/MuuFat/emotion-project) | University assignment: emotion recognition using machine learning and data analysis | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+
+### 🎓 University coursework
+
+| Repo | Content |
+|--------|-------------|
+| [Java-Lab](https://github.com/MuuFat/Java-Lab) | Java lab assignments: OOP, algorithms, data structures |
+| [Database-Queries](https://github.com/MuuFat/Database-Queries) | SQL queries for database practice |
+| [Operating-Systems](https://github.com/MuuFat/Operating-Systems) | C++ labs: process, memory and file system management |
+| [-Minix](https://github.com/MuuFat/-Minix) | C labs and experiments with the MINIX microkernel |
 
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,java,js,html,css,cpp,django,firebase,mongodb,azure,vercel,git,github,androidstudio,vscode,anaconda,arduino,docker,figma,unity,idea,bash&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,lua,unity,cs,html,css,git,github,vscode&theme=dark"/>
 </p>
 
 ---
