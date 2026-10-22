@@ -39,6 +39,7 @@ I enjoy games, testing and figuring out why things break. I'm looking for an ent
 |--------|-------------|-------|
 | [🗡️ Soul-Knott](https://github.com/MuuFat/Soul-Knott) | 2D knight platformer from Boğaziçi Game Jam. I made all the music and sound effects and helped integrate them. [Trailer](https://youtu.be/b2JsIpSOcAE) | ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
 | [🧠 Deep Sentiment Classifier](https://github.com/MuuFat/Deep-Sentiment-Classifier) | Sentiment analysis on IMDb, Yelp and Twitter (Naive Bayes, SVM, LSTM, BERT). Built with AI assistance. I found a bug where stop-word removal deleted negation ("n't") and wrote a fix. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [🇵🇱 Polylingo](https://github.com/IT-Team-Project-Polylingo/Polylingo) | University team project: AI tutor app for practicing Polish. Next.js frontend, Node/Express backend, MongoDB, JWT login, OpenAI-powered chat with saved conversation history, backend tests and GitHub Actions CI. Built with AI assistance. **My part:** backend, plus putting the project together and publishing it. [Live demo](https://poly-front-mu.vercel.app/) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | [😶 Emotion Project](https://github.com/MuuFat/emotion-project) | University assignment: emotion recognition using machine learning and data analysis | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
 
 ### 🎓 University coursework
@@ -55,7 +56,7 @@ I enjoy games, testing and figuring out why things break. I'm looking for an ent
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,lua,unity,cs,html,css,git,github,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,lua,unity,cs,html,css,figma,git,github,vscode&theme=dark"/>
 </p>
 
 ---
